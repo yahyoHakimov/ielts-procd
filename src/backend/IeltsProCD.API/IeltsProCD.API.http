@@ -1,0 +1,6 @@
+@IeltsProCD.API_HostAddress = http://localhost:5187
+
+GET {{IeltsProCD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
